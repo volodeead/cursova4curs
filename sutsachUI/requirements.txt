@@ -2,6 +2,7 @@ streamlit
 pandas
 datetime
 prophet
+plotly_express
 numpy
 matplotlib
 seaborn
