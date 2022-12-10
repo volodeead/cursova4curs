@@ -6,3 +6,4 @@ keras
 tensorflow
 prophet
 datetime
+plotly_express
