@@ -4,3 +4,5 @@ seaborn
 scikit-learn
 keras
 tensorflow
+prophet
+datetime
