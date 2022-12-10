@@ -6,6 +6,6 @@ plotly_express
 numpy
 matplotlib
 seaborn
-sklearn
+scikit-learn
 keras
 tensorflow
