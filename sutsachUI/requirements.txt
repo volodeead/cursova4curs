@@ -1,12 +1,9 @@
 pandas
 datetime
 prophet
-prophet.serialize
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
-sklearn.model_selection
-keras.models
-keras.layers
-keras.layers
+sklearn
+keras
 tensorflow
