@@ -181,7 +181,7 @@ if (typeModel == "Prophet"):
             prophet_pred('JAPAN - YEN/US$', timePeriod)
 
 if (typeModel == "LSTM"):
-    timePeriod = st.selectbox("Дальність прогнозу(дні): ", {3, 5, 10})
+    timePeriod = st.selectbox("Дальність прогнозу(дні): ", {2, 3, 5, 7})
     if st.button('Зробити прогноз моделлю LSTM'):
         if (typeVallet == "AUD"):
             lstm_pred('AUSTRALIA', timePeriod)
